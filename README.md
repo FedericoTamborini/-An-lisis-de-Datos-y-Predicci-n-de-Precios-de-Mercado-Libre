@@ -1,0 +1,2 @@
+# -An-lisis-de-Datos-y-Predicci-n-de-Precios-de-Mercado-Libre
+Este proyecto presenta un análisis detallado de los datos históricos de precios de Mercado Libre, así como la implementación de modelos de predicción para estimar los precios futuros de las acciones de la empresa. Se utilizó una variedad de técnicas, desde visualizaciones de tendencias hasta detección de anomalías y modelos de regresión.
